@@ -1,0 +1,4 @@
+name of mobile : realme
+version : 12.0
+RAM :128 gb
+
