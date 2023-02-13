@@ -4,3 +4,4 @@ RAM :128 gb
 cam :24 pixels
 cost:30k
 version : 16.0
+version:100.0
