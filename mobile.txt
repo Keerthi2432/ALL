@@ -1,4 +1,6 @@
 name of mobile : realme
 version : 12.0
 RAM :128 gb
-
+cam :24 pixels
+cost:30k
+version : 16.0
